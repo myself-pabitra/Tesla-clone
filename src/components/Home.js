@@ -20,7 +20,7 @@ function Home() {
                 rightBtnText="Existing Inventory"
             />
             <Section
-                title="Model Z"
+                title="Model 3"
                 description="Order Online for Touchless Delivery"
                 backgroundImg="model-3.jpg"
                 leftBtnText="Custom Order"
